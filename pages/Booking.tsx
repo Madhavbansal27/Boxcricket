@@ -271,7 +271,7 @@ const Booking: React.FC = () => {
                     </div>
                     <div className="flex items-center space-x-2">
                         <Users className="h-4 w-4" />
-                        <span>Up to 22 players</span>
+                        <span>Up to 15 players</span>
                     </div>
                     </div>
                 </div>
